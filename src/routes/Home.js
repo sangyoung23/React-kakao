@@ -38,7 +38,7 @@ const LoginInput = styled.div`
   input {
     font-size: 15px;
 
-    padding: 15px 5px;
+    padding: 15px 10px;
 
     border: none;
     border-bottom: 1px solid #ccc;
